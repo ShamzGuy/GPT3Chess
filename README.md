@@ -6,4 +6,4 @@ Creating a chess engine using GPT-3
 
 My game (white) vs GPT-3 (black)
 
-Use python-chess library to visualize the chess board, enter the moves as notations to (e.g.: e4) play the game
+Use python-chess library to visualize the chess board, enter the moves as notations (e.g.: e4) to play the game
